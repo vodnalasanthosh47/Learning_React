@@ -1,7 +1,14 @@
-import Message from './Message';
+import Card from "./Card.js";
 
 function App() {
-  return <div><Message/></div>;
+  return (
+    <>
+      <Card/>
+      <Card/>
+      <Card/>
+      
+    </>
+  );
 }
 
 export default App;
