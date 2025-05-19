@@ -1,8 +1,8 @@
-import Fruits from "./Fruits";
+import ToDoList from "./ToDoList";
 
 function App() {
   return (
-    <Fruits/>
+    <ToDoList/>
   )
 }
 
